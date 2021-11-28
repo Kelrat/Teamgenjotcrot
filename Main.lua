@@ -1,11 +1,11 @@
---That dead sky open source by Kel
+--Teamgenjotcrot open source by marmv
 --tgc must patch this all
 --Do you have some good functions or codes?
---Tell me https://t.me/EL_Khan049
+--Tell me discord : Marmv#6049
 
 
 
-gg.toast('FuckChina Loaded')
+gg.toast('love china tapi boong')
 ddd = 211127
 pshare = ''
 umenu = true
@@ -14,7 +14,7 @@ fastvalue = false
 fastitem = false
 echanged = false
 teleping = false
-message = '⚠️Use at educational and personal only⚠️\nYour own risk'
+message = '⚠️Hati hati ya lur⚠️\n kalian rawan ke banned'
 fastmax = 0
 stojump = false
 crset = {enable = false, level = 0, map = ''}
@@ -46,7 +46,7 @@ psettings = {
   ufps = 30
   }
   
-changelog = '11.27 update\n\n-Fixed race runner\n-Added [Make hidden props] in magic menu'
+changelog = '11.27 update\n\n-perbaikan valley race\n-Added [Make hidden props] in magic menu'
 scriptv = {process ='com.tgc.sky.android',version=179644}
 teleparr = {spec = false,follow = false,collect = false,enable = false,hide = false,arr = 1}
 gameinfo = gg.getTargetInfo()
@@ -640,9 +640,9 @@ mlist = {}
 hitarr = {
 }
 
---That dead sky open source by Kel
+--Teamgenjotcrot open source by Marmv
 --Do you have some good functions or codes?
---Tell me https://t.me/EL_Khan049
+--Tell me discord: Marmv#6049
 
 function indexof(a,b)
   for k,v in ipairs(a) do 
@@ -735,7 +735,7 @@ function addtostr(add,amount)
 end
 
 function getpatch()
-  API = gg.makeRequest('https://raw.githubusercontent.com/Kelrit402/TGC_Sky_is_dead/main/Sharelocate.lua').content
+  API = gg.makeRequest('https://raw.githubusercontent.com/Kelrat/Teamgenjotcrot/main/Sharelocate.lua').content
   if not API then
     gg.toast('patch failed')
   else
@@ -1124,7 +1124,7 @@ mm = {}
  if gg.getResultsCount() > 3 then
  nn = gg.getResults(5)[4].address
  gg.clearResults()
- setstr(nn,27,'by ExMachina')
+ setstr(nn,27,'by MARMV')
  end
  nn = 0
  gg.clearResults()
@@ -1152,10 +1152,10 @@ eoffsets.ncamera = eoffsets.nentity - poffsets.gcamera
 --gg.addListItems(candles)
 gg.clearResults()
 if andro >= 30 then
-    gg.toast('\n𝙃𝙖𝙫𝙚 𝙛𝙪𝙣 𝙪𝙣𝙩𝙞𝙡 𝙗𝙖𝙣\n' .. ddd .. ' [A11] by Kel')
+    gg.toast('\n SENENG SENENG SAMPE KE BAN\n' .. ddd .. ' [A11] by Marmv')
     print('Android 11 detected')
   else
-    gg.toast('\n𝙃𝙖𝙫𝙚 𝙛𝙪𝙣 𝙪𝙣𝙩𝙞𝙡 𝙗𝙖𝙣\n' .. ddd .. ' by Kel')
+    gg.toast('\n SENENG SENENG SAMPE KE BAN\n' .. ddd .. ' by Marmv')
 end
   
 if psettings.nodamage then
@@ -3278,9 +3278,9 @@ function scsettings()
 end
 
 startup()
---That dead sky open source by Kel
+--Teamgenjotcrot open source by Marmv
 --Do you have some good functions or codes?
---Tell me https://t.me/EL_Khan049
+--Tell me Discord: Marmv#6049
 
 gg.setVisible(false)
 gg.showUiButton()
@@ -4631,7 +4631,7 @@ function crmenu()
            --use pointer to not crash game
            setadd(xre+0x10,gg.TYPE_QWORD,eoffsets.nentity - poffsets.wingmap + 0x36D0,false)
            if r == #y then
-            setstr(eoffsets.nentity - poffsets.wingmap + 0x36D0,24,'ExMachina')
+            setstr(eoffsets.nentity - poffsets.wingmap + 0x36D0,24,'Marmv')
           else
             setstr(eoffsets.nentity - poffsets.wingmap + 0x36D0,24,cworld[r][2])
           end
@@ -5268,6 +5268,6 @@ while true do
    gg.sleep(100)
 end
 
---That dead sky open source by Kel
+--Teamgenjotcrot open source by Marmv
 --Do you have some good functions or codes?
---Tell me https://t.me/EL_Khan049
+--Tell me Discord: Marmv#6049
