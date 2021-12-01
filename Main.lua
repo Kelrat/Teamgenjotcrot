@@ -46,7 +46,7 @@ psettings = {
   ufps = 30
   }
   
-changelog = '11.27 update\n\n-perbaikan valley race\n-Added [Make hidden props] in magic menu'
+changelog = '11.27 update\n\n-ADMIN GALAU\n-Added [Make hidden props] in magic menu'
 scriptv = {process ='com.tgc.sky.android',version=179644}
 teleparr = {spec = false,follow = false,collect = false,enable = false,hide = false,arr = 1}
 gameinfo = gg.getTargetInfo()
