@@ -5,7 +5,7 @@
 
 
 
-gg.toast('love china tapi boong')
+gg.toast('HALO JOMBLO:)')
 ddd = 211127
 pshare = ''
 umenu = true
@@ -14,7 +14,7 @@ fastvalue = false
 fastitem = false
 echanged = false
 teleping = false
-message = '⚠️Hati hati ya lur⚠️\n kalian rawan ke banned'
+message = '⚠️Hati hati ya lur⚠️\n DIPERTEMUKAN OLEH KETIDAKSENGAJAAN DAN DIPISAHKAN OLEH KENYATAAN YANG TAK PERNAH DIHARAPKAN'
 fastmax = 0
 stojump = false
 crset = {enable = false, level = 0, map = ''}
@@ -1152,10 +1152,10 @@ eoffsets.ncamera = eoffsets.nentity - poffsets.gcamera
 --gg.addListItems(candles)
 gg.clearResults()
 if andro >= 30 then
-    gg.toast('\n SENENG SENENG SAMPE KE BAN\n' .. ddd .. ' [A11] by Marmv')
+    gg.toast('\n JANGAN LUPA BAHAGIA:)\n' .. ddd .. ' [A11] by Marmv')
     print('Android 11 detected')
   else
-    gg.toast('\n SENENG SENENG SAMPE KE BAN\n' .. ddd .. ' by Marmv')
+    gg.toast('\n JANGAN LUPA BAHAGIA:)\n' .. ddd .. ' by Marmv')
 end
   
 if psettings.nodamage then
